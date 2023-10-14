@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋🏼, I'm Viola</h1>
-<h3 align="center">📍 Florence, Tuscany, Italy | Computer Science student at Università di Pisa 💻
+<h3 align="center">📍 Florence, Tuscany, Italy | Computer Science student at Università di Pisa 💻 <br>
 Photographer 📷 Astrophile 🔭 Science lover 🔎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberviola&label=Profile%20views&color=0e75b6&style=flat" alt="cyberviola" /> </p>
